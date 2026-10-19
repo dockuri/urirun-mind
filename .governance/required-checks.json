@@ -1,5 +1,5 @@
 {
-  "repository": "if-uri/urirun-mind",
+  "repository": "dockuri/urirun-mind",
   "requiredChecks": [
     {
       "name": "governance / remote lifecycle",
